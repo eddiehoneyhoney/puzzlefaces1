@@ -1,0 +1,55 @@
+body {
+  background-color:floralwhite;
+  font: 14px/18px Helvetica, Arial;
+  margin-top: 0px;
+ 
+    
+}
+
+#field {
+  margin: 0 auto;
+  width: 400px;
+  position: relative;
+}
+
+.card {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 56px;
+  height: 56px;
+}
+
+.card img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 56px;
+  height: 56px;
+}
+
+#score, #tries {
+  position: absolute;
+  left: -150px;
+  top: 0px;
+  font-size: 100px;
+  line-height: 100px;
+  color: #aaa;
+  width: 100px;
+  text-align: right;
+}
+
+#tries {
+  font-size: 20px;
+  top: 50px;
+  left: -110px;
+}
+
+a {
+  color: #888;
+}
+
+#controls {
+  position: absolute;
+  top: 200px;
+}

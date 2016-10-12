@@ -1,0 +1,14 @@
+{
+  "short_name": "Puzzle wonders",
+  "name": "Puzzle wonders",
+  "icons": [
+    {
+      "src": "puzzle_11.png",
+      "sizes": "90x90",
+      "type": "image/png"
+    }
+  ],
+   "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

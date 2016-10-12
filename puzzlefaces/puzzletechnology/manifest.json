@@ -1,0 +1,14 @@
+{
+  "short_name": "puzzle technologies",
+  "name": "Puzzle technologies",
+  "icons": [
+    {
+      "src": "back.png",
+      "sizes": "140x140",
+      "type": "image/png"
+    }
+  ],
+   "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

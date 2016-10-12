@@ -1,0 +1,14 @@
+{
+  "short_name": "puzzle animals",
+  "name": "Puzzle animals",
+  "icons": [
+    {
+      "src": "anim22.png",
+      "sizes": "90x90",
+      "type": "image/png"
+    }
+  ],
+   "start_url": "http://puzzlefaces.xama.online/puzzleanimals/index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}
