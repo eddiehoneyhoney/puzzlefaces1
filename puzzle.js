@@ -119,7 +119,7 @@ window.speechSynthesis.speak(msg);
           duration: 3+Math.random()*7
         }).morph('opacity:0;top:-70px;margin-left:0',2);
       });
-      window.location = "http://puzzlefaces.xama.online/puzzleanimals/";
+      window.location = "/puzzleanimals/index.html";
 
       //shuffle.delay(17);
     }
